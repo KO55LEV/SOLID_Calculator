@@ -1,0 +1,11 @@
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojResolveAssemblyReference.cache
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Dev\TestProjects\SOLID\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
