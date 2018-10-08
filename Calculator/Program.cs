@@ -106,6 +106,10 @@ namespace CalculatorApp
 
             builder.RegisterAssemblyTypes(typeof(Calculator).Assembly).Where(x => x.Name.StartsWith("Operation"))
             .AsImplementedInterfaces();
+
+
+            builder.RegisterType<PerformOperation>();
+
             var appContainer = builder.Build();
             var operations = appContainer.Resolve<IEnumerable<ICalculatorOperation>>();
 
@@ -118,8 +122,10 @@ namespace CalculatorApp
             //};
 
             var sum = new PerformOperation(operations).Operate("Multiply", 3, 4);
- 
-            
+
+            var  diOutput = appContainer.Resolve<PerformOperation>().Operate("Multiply", 3, 4);
+
+
 
         }
     }
